@@ -1,6 +1,8 @@
 {
   "summary": {
-    "title": "test TM"
+    "title": "test TM",
+    "owner": "test owner",
+    "description": "test description"
   },
   "detail": {
     "contributors": [],
@@ -9,12 +11,8 @@
         "title": "test Diagram",
         "thumbnail": "./public/content/images/thumbnail.jpg",
         "id": 0
-      },
-      {
-        "title": "test Diagram2",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
-        "id": 1
       }
-    ]
+    ],
+    "reviewer": "test Reviewer"
   }
 }
